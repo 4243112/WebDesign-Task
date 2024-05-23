@@ -1,0 +1,19 @@
+@charset "utf-8";
+h1{
+    color: pink;
+    background-color: aqua;
+}
+h2{
+    color:#87cefa;
+}
+body{
+    background-color: #98fb98;
+    font-family: "A P-OTF 欅角ゴ Oldstyle Min2";
+}
+table, th, td{
+    border: solid 3px pink;
+    border-collapse: collapse;
+}
+table{
+    width: 1500px;
+}
