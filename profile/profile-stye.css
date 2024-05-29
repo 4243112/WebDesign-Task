@@ -1,0 +1,18 @@
+@charset "utf-8";
+body{
+    background-color: chartreuse;
+}
+h1{
+    color: white;
+}
+#eiga{
+    color: crimson;
+    background-color: aqua;
+}
+#saikuringu{
+    color: blue;
+    background-color:aqua
+}
+span{
+    border: 2px dotted green;
+}
