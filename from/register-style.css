@@ -1,0 +1,19 @@
+@charset "utf-8";
+.class{
+    background-color: red;
+    border-radius: 20%;
+}
+.class1{
+    background-color: grey;
+}
+
+table{
+    color:azure;
+}
+
+.class2{
+    background-color:bisque;
+}
+.class3{
+    font-size: 20%;
+}
