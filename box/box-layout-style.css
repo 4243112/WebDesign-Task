@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    margin:0 auto;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.class{
+    background-color: chartreuse;
+    text-align: center;
+}
+
+.class{
+    width: 25%;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.class3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+a{
+    background-color: aquamarine;
+    border-radius: 30px;
+    width: 50%; 
+    padding: 10px;
+    display: block;
+    margin: auto;
+
+}
+p{
+    width: 90%;
+    margin: auto;
+}
+
+.class4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
